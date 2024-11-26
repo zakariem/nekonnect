@@ -90,8 +90,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
-flutter_native_splash:
-  color: "#bdb0ca"
-  image: assets/splash.png
-  android: true
-  ios: true
